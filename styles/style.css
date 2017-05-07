@@ -17,6 +17,7 @@ input {
     font-size: 2em;
     font-family: "Helvetica";
     margin-top: 5px;
+    padding-left: 5px;
 }
 
 .header {

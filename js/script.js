@@ -65,9 +65,10 @@ var ItemsCollection = Backbone.Collection.extend({
 	}
 })
 
-var ItemModel = Backbone.Collection.extend({
+var ItemModel = Backbone.Model.extend({
 	url: "https://openapi.etsy.com/v2/listings/",
 	parse: function(apiResponse) {
+		console.log(apiResponse)
 		return apiResponse.results[0]
 	}
 })
