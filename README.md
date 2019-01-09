@@ -1,4 +1,4 @@
-<h1>EtsyClone</h1>
+<h1>#etsy-clone</h1>
 
 [![npm status](https://img.shields.io/npm/v/npm.svg)](https://img.shields.io/npm/v/npm.svg)
 [![github release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://img.shields.io/github/release/qubyte/rubidium.svg)
@@ -30,8 +30,8 @@ Etsy clone application with the ability to query through the Etsy API and search
 <h2>Install && Development</h2>
 
 ```
-$ git clone https://github.com/AnthonyBuncio/etsyClone.git
-$ cd etsyClone
+$ git clone https://github.com/AnthonyBuncio/etsy-clone.git
+$ cd etsy-clone
 $ node server.js
 ```
 
